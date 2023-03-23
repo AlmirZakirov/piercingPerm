@@ -264,8 +264,8 @@ body {
   -webkit-transform: translate(-100px) rotate(30deg) scale(2);
       -ms-transform: translate(-100px) rotate(30deg) scale(2);
           transform: translate(-100px) rotate(30deg) scale(2);
-  -webkit-animation: button-glare 7s infinite linear;
-  animation: button-glare 7s infinite linear;
+  -webkit-animation: button-glare 5s infinite linear;
+  animation: button-glare 5s infinite linear;
 }
 
 @-webkit-keyframes button-glare {
